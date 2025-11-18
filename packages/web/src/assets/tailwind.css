@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+  html, body, #app {
+    background-color: #2C2C2C; 
+    color: #D5D5D5;
+  }
+  .v-application,
+  .v-application--wrap {
+    background-color: #2C2C2C !important;
+    color: #D5D5D5;
+  }
+}

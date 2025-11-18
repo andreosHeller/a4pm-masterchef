@@ -1,0 +1,25 @@
+# big/irrelevant stuff
+**/node_modules
+**/dist
+**/coverage
+**/*.log
+**/.cache
+**/.DS_Store
+**/Thumbs.db
+
+# VCS/editor
+.git
+.git/** 
+**/.idea
+**/.vscode
+
+# local env files
+.env
+**/.env
+**/*.local.*
+
+# OS/OneDrive
+**/~$*
+**/.Trash-*
+**/OneDrive -*/
+**/.DocumentRevisions-V100
